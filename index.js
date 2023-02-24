@@ -1,2 +1,2 @@
-exports.SorteoManager = require('./Folders/Manager.js');
+exports.SorteoManager = require('./Manager.js');
 exports.version = require('./package.json').version;
