@@ -1,0 +1,37 @@
+{
+	"name": "discord-sorteos-advanced",
+	"version": "1.0.0",
+	"description": "🎉 | Un sistemas de sorteos avanzados en beta",
+	"main": "index.js",
+	"scripts": {
+    	"start": "node ."
+	},
+	"keywords": [
+		"discord",
+		"discord.js",
+		"sorteos",
+		"winner",
+		"bot",
+		"discord-sorteos",
+		"discord sorteos",
+		"sorteo",
+		"interaction",
+		"button",
+		"sorteos",
+		"mongoose"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/EddyerMoral/discord-sorteos-advanced.git"
+	},
+	"bugs": {
+		"url": "https://github.com/EddyerMoral/discord-sorteos-advanced/issues"
+	},
+	"homepage": "https://github.com/EddyerMoral/discord-sorteos-advanced",
+	"author": "danidevv",
+	"license": "ISC",
+	"dependencies": {
+	    "discord.js": "^14.6.0",
+	    "mongoose": "^6.7.2",
+	}
+}
